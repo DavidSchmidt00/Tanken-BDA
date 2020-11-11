@@ -6,3 +6,5 @@ Live-Daten werden von der Tankerkönig API in Apache Kafka als Buffer geschriebe
 Außerdem werden die historischen Daten (als CSV) direkt in MongoDB importiert.
 
 Aus MongoDB heraus werden die Daten dann mit matplotlib analysiert.
+
+![Pipeline](pipeline.png)
